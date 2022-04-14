@@ -1,0 +1,92 @@
+[
+    {
+        "precio": 120,
+        "id": 1,
+        "titile": "Zanahoria",
+        "url": "img/zanahoria.png"
+    },
+    {
+        "precio": 110,
+        "id": 2,
+        "titile": "CebollaC",
+        "url": "img/cebollac.png"
+    },
+    {
+        "precio": 580,
+        "id": 3,
+        "titile": "Brocoli",
+        "url": "img/brocoli.png"
+    },
+    {
+        "precio": 130,
+        "id": 4,
+        "titile": "Ajo",
+        "url": "img/ajo.png"
+    },
+    {
+        "precio": 350,
+        "id": 5,
+        "titile": "Huevos",
+        "url": "img/huevos.png"
+    },
+    {
+        "precio": 150,
+        "id": 6,
+        "titile": "Papas",
+        "url": "img/papas.png"
+    },
+    {
+        "precio": 250,
+        "id": 7,
+        "titile": "Choclos",
+        "url": "img/choclos.png"
+    },
+    {
+        "precio": 170,
+        "id": 8,
+        "titile": "Zapallo",
+        "url": "img/zapallo.png"
+    },
+    {
+        "precio": 245,
+        "id": 9,
+        "titile": "Tomates",
+        "url": "img/tomates.png"
+    },
+    {
+        "precio": 200,
+        "id": 10,
+        "titile": "Bananas",
+        "url": "img/banana.png"
+    },
+    {
+        "precio": 330,
+        "id": 11,
+        "titile": "Duraznos",
+        "url": "img/durazno.png"
+    },
+    {
+        "precio": 50,
+        "id": 12,
+        "titile": "Manzana",
+        "url": "img/manzana.png"
+    },
+    {
+        "precio": 30,
+        "id": 13,
+        "titile": "Naranja",
+        "url": "img/naranja.png"
+    },
+    {
+        "precio": 330,
+        "id": 14,
+        "titile": "Maracuya",
+        "url": "img/maracuya.png"
+    },
+    {
+        "precio": 160,
+        "id": 15,
+        "titile": "Uvas",
+        "url": "img/uvas.png"
+    }
+]
